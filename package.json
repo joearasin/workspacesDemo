@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "fail",
+  "devDependencies": {},
+  "workspaces": ["fail-native", "fail-common"]
+}
